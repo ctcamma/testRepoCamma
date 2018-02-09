@@ -1,3 +1,8 @@
 "Sample 5 ituu"
 
+<<<<<<< HEAD
 git git git git git
+=======
+wews
+
+>>>>>>> 2176dfe635ccdb5bc5c9035d09f8ac10c878ff16
